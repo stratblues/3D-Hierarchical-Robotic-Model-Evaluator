@@ -1,5 +1,5 @@
 @main.cpp
-@author Tony Stanell <ts3552@drexel.edu>
+@author Tony Stanell
 @date June 7, 2024
 @section CS536
 
